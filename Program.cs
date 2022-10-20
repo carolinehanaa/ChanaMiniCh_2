@@ -1,4 +1,8 @@
-﻿
+﻿/*Caroline Hana
+10-19-2022
+Add two numbers
+input two numbers and the system will add them together 
+*/
 Console.Clear();
 string? playAgain = "yes";
 while (playAgain == "yes")

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\carol\\Documents\\ChanaMiniCh_2\\Day 2 Math.csproj": {}
+    "/Users/samlaguna/Documents/Level1/GitRepository/HanaC_Add2Numbers2/Day 2 Math.csproj": {}
   },
   "projects": {
-    "C:\\Users\\carol\\Documents\\ChanaMiniCh_2\\Day 2 Math.csproj": {
+    "/Users/samlaguna/Documents/Level1/GitRepository/HanaC_Add2Numbers2/Day 2 Math.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\carol\\Documents\\ChanaMiniCh_2\\Day 2 Math.csproj",
+        "projectUniqueName": "/Users/samlaguna/Documents/Level1/GitRepository/HanaC_Add2Numbers2/Day 2 Math.csproj",
         "projectName": "Day 2 Math",
-        "projectPath": "C:\\Users\\carol\\Documents\\ChanaMiniCh_2\\Day 2 Math.csproj",
-        "packagesPath": "C:\\Users\\carol\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\carol\\Documents\\ChanaMiniCh_2\\obj\\",
+        "projectPath": "/Users/samlaguna/Documents/Level1/GitRepository/HanaC_Add2Numbers2/Day 2 Math.csproj",
+        "packagesPath": "/Users/samlaguna/.nuget/packages/",
+        "outputPath": "/Users/samlaguna/Documents/Level1/GitRepository/HanaC_Add2Numbers2/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\carol\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/Users/samlaguna/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.400/RuntimeIdentifierGraph.json"
         }
       }
     }

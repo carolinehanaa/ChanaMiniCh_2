@@ -1,75 +1,90 @@
-C:\Users\careb\OneDrive\Desktop\CodeStack 22-23\Combine\Day 2 Math\bin\Debug\net6.0\Day 2 Math.exe
-C:\Users\careb\OneDrive\Desktop\CodeStack 22-23\Combine\Day 2 Math\bin\Debug\net6.0\Day 2 Math.deps.json
-C:\Users\careb\OneDrive\Desktop\CodeStack 22-23\Combine\Day 2 Math\bin\Debug\net6.0\Day 2 Math.runtimeconfig.json
-C:\Users\careb\OneDrive\Desktop\CodeStack 22-23\Combine\Day 2 Math\bin\Debug\net6.0\Day 2 Math.dll
-C:\Users\careb\OneDrive\Desktop\CodeStack 22-23\Combine\Day 2 Math\bin\Debug\net6.0\Day 2 Math.pdb
-C:\Users\careb\OneDrive\Desktop\CodeStack 22-23\Combine\Day 2 Math\obj\Debug\net6.0\Day 2 Math.csproj.AssemblyReference.cache
-C:\Users\careb\OneDrive\Desktop\CodeStack 22-23\Combine\Day 2 Math\obj\Debug\net6.0\Day 2 Math.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\careb\OneDrive\Desktop\CodeStack 22-23\Combine\Day 2 Math\obj\Debug\net6.0\Day 2 Math.AssemblyInfoInputs.cache
-C:\Users\careb\OneDrive\Desktop\CodeStack 22-23\Combine\Day 2 Math\obj\Debug\net6.0\Day 2 Math.AssemblyInfo.cs
-C:\Users\careb\OneDrive\Desktop\CodeStack 22-23\Combine\Day 2 Math\obj\Debug\net6.0\Day 2 Math.csproj.CoreCompileInputs.cache
-C:\Users\careb\OneDrive\Desktop\CodeStack 22-23\Combine\Day 2 Math\obj\Debug\net6.0\Day 2 Math.dll
-C:\Users\careb\OneDrive\Desktop\CodeStack 22-23\Combine\Day 2 Math\obj\Debug\net6.0\refint\Day 2 Math.dll
-C:\Users\careb\OneDrive\Desktop\CodeStack 22-23\Combine\Day 2 Math\obj\Debug\net6.0\Day 2 Math.pdb
-C:\Users\careb\OneDrive\Desktop\CodeStack 22-23\Combine\Day 2 Math\obj\Debug\net6.0\Day 2 Math.genruntimeconfig.cache
-C:\Users\careb\OneDrive\Desktop\CodeStack 22-23\Combine\Day 2 Math\obj\Debug\net6.0\ref\Day 2 Math.dll
-C:\Users\careb\OneDrive\Desktop\CodeStack 22-23\Combine Asignments\Challenge #2\Two_Numbers\bin\Debug\net6.0\Day 2 Math.exe
-C:\Users\careb\OneDrive\Desktop\CodeStack 22-23\Combine Asignments\Challenge #2\Two_Numbers\bin\Debug\net6.0\Day 2 Math.deps.json
-C:\Users\careb\OneDrive\Desktop\CodeStack 22-23\Combine Asignments\Challenge #2\Two_Numbers\bin\Debug\net6.0\Day 2 Math.runtimeconfig.json
-C:\Users\careb\OneDrive\Desktop\CodeStack 22-23\Combine Asignments\Challenge #2\Two_Numbers\bin\Debug\net6.0\Day 2 Math.dll
-C:\Users\careb\OneDrive\Desktop\CodeStack 22-23\Combine Asignments\Challenge #2\Two_Numbers\bin\Debug\net6.0\Day 2 Math.pdb
-C:\Users\careb\OneDrive\Desktop\CodeStack 22-23\Combine Asignments\Challenge #2\Two_Numbers\obj\Debug\net6.0\Day 2 Math.csproj.AssemblyReference.cache
-C:\Users\careb\OneDrive\Desktop\CodeStack 22-23\Combine Asignments\Challenge #2\Two_Numbers\obj\Debug\net6.0\Day 2 Math.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\careb\OneDrive\Desktop\CodeStack 22-23\Combine Asignments\Challenge #2\Two_Numbers\obj\Debug\net6.0\Day 2 Math.AssemblyInfoInputs.cache
-C:\Users\careb\OneDrive\Desktop\CodeStack 22-23\Combine Asignments\Challenge #2\Two_Numbers\obj\Debug\net6.0\Day 2 Math.AssemblyInfo.cs
-C:\Users\careb\OneDrive\Desktop\CodeStack 22-23\Combine Asignments\Challenge #2\Two_Numbers\obj\Debug\net6.0\Day 2 Math.csproj.CoreCompileInputs.cache
-C:\Users\careb\OneDrive\Desktop\CodeStack 22-23\Combine Asignments\Challenge #2\Two_Numbers\obj\Debug\net6.0\Day 2 Math.dll
-C:\Users\careb\OneDrive\Desktop\CodeStack 22-23\Combine Asignments\Challenge #2\Two_Numbers\obj\Debug\net6.0\refint\Day 2 Math.dll
-C:\Users\careb\OneDrive\Desktop\CodeStack 22-23\Combine Asignments\Challenge #2\Two_Numbers\obj\Debug\net6.0\Day 2 Math.pdb
-C:\Users\careb\OneDrive\Desktop\CodeStack 22-23\Combine Asignments\Challenge #2\Two_Numbers\obj\Debug\net6.0\Day 2 Math.genruntimeconfig.cache
-C:\Users\careb\OneDrive\Desktop\CodeStack 22-23\Combine Asignments\Challenge #2\Two_Numbers\obj\Debug\net6.0\ref\Day 2 Math.dll
-C:\Users\careb\OneDrive\Desktop\CodeStack 22-23\Combine Asignments\Challenges\Challenge0\Challenge #2\Two_Numbers\bin\Debug\net6.0\Day 2 Math.exe
-C:\Users\careb\OneDrive\Desktop\CodeStack 22-23\Combine Asignments\Challenges\Challenge0\Challenge #2\Two_Numbers\bin\Debug\net6.0\Day 2 Math.deps.json
-C:\Users\careb\OneDrive\Desktop\CodeStack 22-23\Combine Asignments\Challenges\Challenge0\Challenge #2\Two_Numbers\bin\Debug\net6.0\Day 2 Math.runtimeconfig.json
-C:\Users\careb\OneDrive\Desktop\CodeStack 22-23\Combine Asignments\Challenges\Challenge0\Challenge #2\Two_Numbers\bin\Debug\net6.0\Day 2 Math.dll
-C:\Users\careb\OneDrive\Desktop\CodeStack 22-23\Combine Asignments\Challenges\Challenge0\Challenge #2\Two_Numbers\bin\Debug\net6.0\Day 2 Math.pdb
-C:\Users\careb\OneDrive\Desktop\CodeStack 22-23\Combine Asignments\Challenges\Challenge0\Challenge #2\Two_Numbers\obj\Debug\net6.0\Day 2 Math.csproj.AssemblyReference.cache
-C:\Users\careb\OneDrive\Desktop\CodeStack 22-23\Combine Asignments\Challenges\Challenge0\Challenge #2\Two_Numbers\obj\Debug\net6.0\Day 2 Math.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\careb\OneDrive\Desktop\CodeStack 22-23\Combine Asignments\Challenges\Challenge0\Challenge #2\Two_Numbers\obj\Debug\net6.0\Day 2 Math.AssemblyInfoInputs.cache
-C:\Users\careb\OneDrive\Desktop\CodeStack 22-23\Combine Asignments\Challenges\Challenge0\Challenge #2\Two_Numbers\obj\Debug\net6.0\Day 2 Math.AssemblyInfo.cs
-C:\Users\careb\OneDrive\Desktop\CodeStack 22-23\Combine Asignments\Challenges\Challenge0\Challenge #2\Two_Numbers\obj\Debug\net6.0\Day 2 Math.csproj.CoreCompileInputs.cache
-C:\Users\careb\OneDrive\Desktop\CodeStack 22-23\Combine Asignments\Challenges\Challenge0\Challenge #2\Two_Numbers\obj\Debug\net6.0\Day 2 Math.dll
-C:\Users\careb\OneDrive\Desktop\CodeStack 22-23\Combine Asignments\Challenges\Challenge0\Challenge #2\Two_Numbers\obj\Debug\net6.0\refint\Day 2 Math.dll
-C:\Users\careb\OneDrive\Desktop\CodeStack 22-23\Combine Asignments\Challenges\Challenge0\Challenge #2\Two_Numbers\obj\Debug\net6.0\Day 2 Math.pdb
-C:\Users\careb\OneDrive\Desktop\CodeStack 22-23\Combine Asignments\Challenges\Challenge0\Challenge #2\Two_Numbers\obj\Debug\net6.0\Day 2 Math.genruntimeconfig.cache
-C:\Users\careb\OneDrive\Desktop\CodeStack 22-23\Combine Asignments\Challenges\Challenge0\Challenge #2\Two_Numbers\obj\Debug\net6.0\ref\Day 2 Math.dll
-C:\Users\careb\OneDrive\Desktop\CodeStack 22-23\Combine Asignments\Challenges\Challenge0\ChanaMiniCh_2\bin\Debug\net6.0\Day 2 Math.exe
-C:\Users\careb\OneDrive\Desktop\CodeStack 22-23\Combine Asignments\Challenges\Challenge0\ChanaMiniCh_2\bin\Debug\net6.0\Day 2 Math.deps.json
-C:\Users\careb\OneDrive\Desktop\CodeStack 22-23\Combine Asignments\Challenges\Challenge0\ChanaMiniCh_2\bin\Debug\net6.0\Day 2 Math.runtimeconfig.json
-C:\Users\careb\OneDrive\Desktop\CodeStack 22-23\Combine Asignments\Challenges\Challenge0\ChanaMiniCh_2\bin\Debug\net6.0\Day 2 Math.dll
-C:\Users\careb\OneDrive\Desktop\CodeStack 22-23\Combine Asignments\Challenges\Challenge0\ChanaMiniCh_2\bin\Debug\net6.0\Day 2 Math.pdb
-C:\Users\careb\OneDrive\Desktop\CodeStack 22-23\Combine Asignments\Challenges\Challenge0\ChanaMiniCh_2\obj\Debug\net6.0\Day 2 Math.csproj.AssemblyReference.cache
-C:\Users\careb\OneDrive\Desktop\CodeStack 22-23\Combine Asignments\Challenges\Challenge0\ChanaMiniCh_2\obj\Debug\net6.0\Day 2 Math.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\careb\OneDrive\Desktop\CodeStack 22-23\Combine Asignments\Challenges\Challenge0\ChanaMiniCh_2\obj\Debug\net6.0\Day 2 Math.AssemblyInfoInputs.cache
-C:\Users\careb\OneDrive\Desktop\CodeStack 22-23\Combine Asignments\Challenges\Challenge0\ChanaMiniCh_2\obj\Debug\net6.0\Day 2 Math.AssemblyInfo.cs
-C:\Users\careb\OneDrive\Desktop\CodeStack 22-23\Combine Asignments\Challenges\Challenge0\ChanaMiniCh_2\obj\Debug\net6.0\Day 2 Math.csproj.CoreCompileInputs.cache
-C:\Users\careb\OneDrive\Desktop\CodeStack 22-23\Combine Asignments\Challenges\Challenge0\ChanaMiniCh_2\obj\Debug\net6.0\Day 2 Math.dll
-C:\Users\careb\OneDrive\Desktop\CodeStack 22-23\Combine Asignments\Challenges\Challenge0\ChanaMiniCh_2\obj\Debug\net6.0\refint\Day 2 Math.dll
-C:\Users\careb\OneDrive\Desktop\CodeStack 22-23\Combine Asignments\Challenges\Challenge0\ChanaMiniCh_2\obj\Debug\net6.0\Day 2 Math.pdb
-C:\Users\careb\OneDrive\Desktop\CodeStack 22-23\Combine Asignments\Challenges\Challenge0\ChanaMiniCh_2\obj\Debug\net6.0\Day 2 Math.genruntimeconfig.cache
-C:\Users\careb\OneDrive\Desktop\CodeStack 22-23\Combine Asignments\Challenges\Challenge0\ChanaMiniCh_2\obj\Debug\net6.0\ref\Day 2 Math.dll
-C:\Users\carol\Documents\ChanaMiniCh_2\bin\Debug\net6.0\Day 2 Math.exe
-C:\Users\carol\Documents\ChanaMiniCh_2\bin\Debug\net6.0\Day 2 Math.deps.json
-C:\Users\carol\Documents\ChanaMiniCh_2\bin\Debug\net6.0\Day 2 Math.runtimeconfig.json
-C:\Users\carol\Documents\ChanaMiniCh_2\bin\Debug\net6.0\Day 2 Math.dll
-C:\Users\carol\Documents\ChanaMiniCh_2\bin\Debug\net6.0\Day 2 Math.pdb
-C:\Users\carol\Documents\ChanaMiniCh_2\obj\Debug\net6.0\Day 2 Math.csproj.AssemblyReference.cache
-C:\Users\carol\Documents\ChanaMiniCh_2\obj\Debug\net6.0\Day 2 Math.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\carol\Documents\ChanaMiniCh_2\obj\Debug\net6.0\Day 2 Math.AssemblyInfoInputs.cache
-C:\Users\carol\Documents\ChanaMiniCh_2\obj\Debug\net6.0\Day 2 Math.AssemblyInfo.cs
-C:\Users\carol\Documents\ChanaMiniCh_2\obj\Debug\net6.0\Day 2 Math.csproj.CoreCompileInputs.cache
-C:\Users\carol\Documents\ChanaMiniCh_2\obj\Debug\net6.0\Day 2 Math.dll
-C:\Users\carol\Documents\ChanaMiniCh_2\obj\Debug\net6.0\refint\Day 2 Math.dll
-C:\Users\carol\Documents\ChanaMiniCh_2\obj\Debug\net6.0\Day 2 Math.pdb
-C:\Users\carol\Documents\ChanaMiniCh_2\obj\Debug\net6.0\Day 2 Math.genruntimeconfig.cache
-C:\Users\carol\Documents\ChanaMiniCh_2\obj\Debug\net6.0\ref\Day 2 Math.dll
+C:/Users/careb/OneDrive/Desktop/CodeStack 22-23/Combine/Day 2 Math/bin/Debug/net6.0/Day 2 Math.exe
+C:/Users/careb/OneDrive/Desktop/CodeStack 22-23/Combine/Day 2 Math/bin/Debug/net6.0/Day 2 Math.deps.json
+C:/Users/careb/OneDrive/Desktop/CodeStack 22-23/Combine/Day 2 Math/bin/Debug/net6.0/Day 2 Math.runtimeconfig.json
+C:/Users/careb/OneDrive/Desktop/CodeStack 22-23/Combine/Day 2 Math/bin/Debug/net6.0/Day 2 Math.dll
+C:/Users/careb/OneDrive/Desktop/CodeStack 22-23/Combine/Day 2 Math/bin/Debug/net6.0/Day 2 Math.pdb
+C:/Users/careb/OneDrive/Desktop/CodeStack 22-23/Combine/Day 2 Math/obj/Debug/net6.0/Day 2 Math.csproj.AssemblyReference.cache
+C:/Users/careb/OneDrive/Desktop/CodeStack 22-23/Combine/Day 2 Math/obj/Debug/net6.0/Day 2 Math.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/careb/OneDrive/Desktop/CodeStack 22-23/Combine/Day 2 Math/obj/Debug/net6.0/Day 2 Math.AssemblyInfoInputs.cache
+C:/Users/careb/OneDrive/Desktop/CodeStack 22-23/Combine/Day 2 Math/obj/Debug/net6.0/Day 2 Math.AssemblyInfo.cs
+C:/Users/careb/OneDrive/Desktop/CodeStack 22-23/Combine/Day 2 Math/obj/Debug/net6.0/Day 2 Math.csproj.CoreCompileInputs.cache
+C:/Users/careb/OneDrive/Desktop/CodeStack 22-23/Combine/Day 2 Math/obj/Debug/net6.0/Day 2 Math.dll
+C:/Users/careb/OneDrive/Desktop/CodeStack 22-23/Combine/Day 2 Math/obj/Debug/net6.0/refint/Day 2 Math.dll
+C:/Users/careb/OneDrive/Desktop/CodeStack 22-23/Combine/Day 2 Math/obj/Debug/net6.0/Day 2 Math.pdb
+C:/Users/careb/OneDrive/Desktop/CodeStack 22-23/Combine/Day 2 Math/obj/Debug/net6.0/Day 2 Math.genruntimeconfig.cache
+C:/Users/careb/OneDrive/Desktop/CodeStack 22-23/Combine/Day 2 Math/obj/Debug/net6.0/ref/Day 2 Math.dll
+C:/Users/careb/OneDrive/Desktop/CodeStack 22-23/Combine Asignments/Challenge #2/Two_Numbers/bin/Debug/net6.0/Day 2 Math.exe
+C:/Users/careb/OneDrive/Desktop/CodeStack 22-23/Combine Asignments/Challenge #2/Two_Numbers/bin/Debug/net6.0/Day 2 Math.deps.json
+C:/Users/careb/OneDrive/Desktop/CodeStack 22-23/Combine Asignments/Challenge #2/Two_Numbers/bin/Debug/net6.0/Day 2 Math.runtimeconfig.json
+C:/Users/careb/OneDrive/Desktop/CodeStack 22-23/Combine Asignments/Challenge #2/Two_Numbers/bin/Debug/net6.0/Day 2 Math.dll
+C:/Users/careb/OneDrive/Desktop/CodeStack 22-23/Combine Asignments/Challenge #2/Two_Numbers/bin/Debug/net6.0/Day 2 Math.pdb
+C:/Users/careb/OneDrive/Desktop/CodeStack 22-23/Combine Asignments/Challenge #2/Two_Numbers/obj/Debug/net6.0/Day 2 Math.csproj.AssemblyReference.cache
+C:/Users/careb/OneDrive/Desktop/CodeStack 22-23/Combine Asignments/Challenge #2/Two_Numbers/obj/Debug/net6.0/Day 2 Math.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/careb/OneDrive/Desktop/CodeStack 22-23/Combine Asignments/Challenge #2/Two_Numbers/obj/Debug/net6.0/Day 2 Math.AssemblyInfoInputs.cache
+C:/Users/careb/OneDrive/Desktop/CodeStack 22-23/Combine Asignments/Challenge #2/Two_Numbers/obj/Debug/net6.0/Day 2 Math.AssemblyInfo.cs
+C:/Users/careb/OneDrive/Desktop/CodeStack 22-23/Combine Asignments/Challenge #2/Two_Numbers/obj/Debug/net6.0/Day 2 Math.csproj.CoreCompileInputs.cache
+C:/Users/careb/OneDrive/Desktop/CodeStack 22-23/Combine Asignments/Challenge #2/Two_Numbers/obj/Debug/net6.0/Day 2 Math.dll
+C:/Users/careb/OneDrive/Desktop/CodeStack 22-23/Combine Asignments/Challenge #2/Two_Numbers/obj/Debug/net6.0/refint/Day 2 Math.dll
+C:/Users/careb/OneDrive/Desktop/CodeStack 22-23/Combine Asignments/Challenge #2/Two_Numbers/obj/Debug/net6.0/Day 2 Math.pdb
+C:/Users/careb/OneDrive/Desktop/CodeStack 22-23/Combine Asignments/Challenge #2/Two_Numbers/obj/Debug/net6.0/Day 2 Math.genruntimeconfig.cache
+C:/Users/careb/OneDrive/Desktop/CodeStack 22-23/Combine Asignments/Challenge #2/Two_Numbers/obj/Debug/net6.0/ref/Day 2 Math.dll
+C:/Users/careb/OneDrive/Desktop/CodeStack 22-23/Combine Asignments/Challenges/Challenge0/Challenge #2/Two_Numbers/bin/Debug/net6.0/Day 2 Math.exe
+C:/Users/careb/OneDrive/Desktop/CodeStack 22-23/Combine Asignments/Challenges/Challenge0/Challenge #2/Two_Numbers/bin/Debug/net6.0/Day 2 Math.deps.json
+C:/Users/careb/OneDrive/Desktop/CodeStack 22-23/Combine Asignments/Challenges/Challenge0/Challenge #2/Two_Numbers/bin/Debug/net6.0/Day 2 Math.runtimeconfig.json
+C:/Users/careb/OneDrive/Desktop/CodeStack 22-23/Combine Asignments/Challenges/Challenge0/Challenge #2/Two_Numbers/bin/Debug/net6.0/Day 2 Math.dll
+C:/Users/careb/OneDrive/Desktop/CodeStack 22-23/Combine Asignments/Challenges/Challenge0/Challenge #2/Two_Numbers/bin/Debug/net6.0/Day 2 Math.pdb
+C:/Users/careb/OneDrive/Desktop/CodeStack 22-23/Combine Asignments/Challenges/Challenge0/Challenge #2/Two_Numbers/obj/Debug/net6.0/Day 2 Math.csproj.AssemblyReference.cache
+C:/Users/careb/OneDrive/Desktop/CodeStack 22-23/Combine Asignments/Challenges/Challenge0/Challenge #2/Two_Numbers/obj/Debug/net6.0/Day 2 Math.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/careb/OneDrive/Desktop/CodeStack 22-23/Combine Asignments/Challenges/Challenge0/Challenge #2/Two_Numbers/obj/Debug/net6.0/Day 2 Math.AssemblyInfoInputs.cache
+C:/Users/careb/OneDrive/Desktop/CodeStack 22-23/Combine Asignments/Challenges/Challenge0/Challenge #2/Two_Numbers/obj/Debug/net6.0/Day 2 Math.AssemblyInfo.cs
+C:/Users/careb/OneDrive/Desktop/CodeStack 22-23/Combine Asignments/Challenges/Challenge0/Challenge #2/Two_Numbers/obj/Debug/net6.0/Day 2 Math.csproj.CoreCompileInputs.cache
+C:/Users/careb/OneDrive/Desktop/CodeStack 22-23/Combine Asignments/Challenges/Challenge0/Challenge #2/Two_Numbers/obj/Debug/net6.0/Day 2 Math.dll
+C:/Users/careb/OneDrive/Desktop/CodeStack 22-23/Combine Asignments/Challenges/Challenge0/Challenge #2/Two_Numbers/obj/Debug/net6.0/refint/Day 2 Math.dll
+C:/Users/careb/OneDrive/Desktop/CodeStack 22-23/Combine Asignments/Challenges/Challenge0/Challenge #2/Two_Numbers/obj/Debug/net6.0/Day 2 Math.pdb
+C:/Users/careb/OneDrive/Desktop/CodeStack 22-23/Combine Asignments/Challenges/Challenge0/Challenge #2/Two_Numbers/obj/Debug/net6.0/Day 2 Math.genruntimeconfig.cache
+C:/Users/careb/OneDrive/Desktop/CodeStack 22-23/Combine Asignments/Challenges/Challenge0/Challenge #2/Two_Numbers/obj/Debug/net6.0/ref/Day 2 Math.dll
+C:/Users/careb/OneDrive/Desktop/CodeStack 22-23/Combine Asignments/Challenges/Challenge0/ChanaMiniCh_2/bin/Debug/net6.0/Day 2 Math.exe
+C:/Users/careb/OneDrive/Desktop/CodeStack 22-23/Combine Asignments/Challenges/Challenge0/ChanaMiniCh_2/bin/Debug/net6.0/Day 2 Math.deps.json
+C:/Users/careb/OneDrive/Desktop/CodeStack 22-23/Combine Asignments/Challenges/Challenge0/ChanaMiniCh_2/bin/Debug/net6.0/Day 2 Math.runtimeconfig.json
+C:/Users/careb/OneDrive/Desktop/CodeStack 22-23/Combine Asignments/Challenges/Challenge0/ChanaMiniCh_2/bin/Debug/net6.0/Day 2 Math.dll
+C:/Users/careb/OneDrive/Desktop/CodeStack 22-23/Combine Asignments/Challenges/Challenge0/ChanaMiniCh_2/bin/Debug/net6.0/Day 2 Math.pdb
+C:/Users/careb/OneDrive/Desktop/CodeStack 22-23/Combine Asignments/Challenges/Challenge0/ChanaMiniCh_2/obj/Debug/net6.0/Day 2 Math.csproj.AssemblyReference.cache
+C:/Users/careb/OneDrive/Desktop/CodeStack 22-23/Combine Asignments/Challenges/Challenge0/ChanaMiniCh_2/obj/Debug/net6.0/Day 2 Math.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/careb/OneDrive/Desktop/CodeStack 22-23/Combine Asignments/Challenges/Challenge0/ChanaMiniCh_2/obj/Debug/net6.0/Day 2 Math.AssemblyInfoInputs.cache
+C:/Users/careb/OneDrive/Desktop/CodeStack 22-23/Combine Asignments/Challenges/Challenge0/ChanaMiniCh_2/obj/Debug/net6.0/Day 2 Math.AssemblyInfo.cs
+C:/Users/careb/OneDrive/Desktop/CodeStack 22-23/Combine Asignments/Challenges/Challenge0/ChanaMiniCh_2/obj/Debug/net6.0/Day 2 Math.csproj.CoreCompileInputs.cache
+C:/Users/careb/OneDrive/Desktop/CodeStack 22-23/Combine Asignments/Challenges/Challenge0/ChanaMiniCh_2/obj/Debug/net6.0/Day 2 Math.dll
+C:/Users/careb/OneDrive/Desktop/CodeStack 22-23/Combine Asignments/Challenges/Challenge0/ChanaMiniCh_2/obj/Debug/net6.0/refint/Day 2 Math.dll
+C:/Users/careb/OneDrive/Desktop/CodeStack 22-23/Combine Asignments/Challenges/Challenge0/ChanaMiniCh_2/obj/Debug/net6.0/Day 2 Math.pdb
+C:/Users/careb/OneDrive/Desktop/CodeStack 22-23/Combine Asignments/Challenges/Challenge0/ChanaMiniCh_2/obj/Debug/net6.0/Day 2 Math.genruntimeconfig.cache
+C:/Users/careb/OneDrive/Desktop/CodeStack 22-23/Combine Asignments/Challenges/Challenge0/ChanaMiniCh_2/obj/Debug/net6.0/ref/Day 2 Math.dll
+C:/Users/carol/Documents/ChanaMiniCh_2/bin/Debug/net6.0/Day 2 Math.exe
+C:/Users/carol/Documents/ChanaMiniCh_2/bin/Debug/net6.0/Day 2 Math.deps.json
+C:/Users/carol/Documents/ChanaMiniCh_2/bin/Debug/net6.0/Day 2 Math.runtimeconfig.json
+C:/Users/carol/Documents/ChanaMiniCh_2/bin/Debug/net6.0/Day 2 Math.dll
+C:/Users/carol/Documents/ChanaMiniCh_2/bin/Debug/net6.0/Day 2 Math.pdb
+C:/Users/carol/Documents/ChanaMiniCh_2/obj/Debug/net6.0/Day 2 Math.csproj.AssemblyReference.cache
+C:/Users/carol/Documents/ChanaMiniCh_2/obj/Debug/net6.0/Day 2 Math.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/carol/Documents/ChanaMiniCh_2/obj/Debug/net6.0/Day 2 Math.AssemblyInfoInputs.cache
+C:/Users/carol/Documents/ChanaMiniCh_2/obj/Debug/net6.0/Day 2 Math.AssemblyInfo.cs
+C:/Users/carol/Documents/ChanaMiniCh_2/obj/Debug/net6.0/Day 2 Math.csproj.CoreCompileInputs.cache
+C:/Users/carol/Documents/ChanaMiniCh_2/obj/Debug/net6.0/Day 2 Math.dll
+C:/Users/carol/Documents/ChanaMiniCh_2/obj/Debug/net6.0/refint/Day 2 Math.dll
+C:/Users/carol/Documents/ChanaMiniCh_2/obj/Debug/net6.0/Day 2 Math.pdb
+C:/Users/carol/Documents/ChanaMiniCh_2/obj/Debug/net6.0/Day 2 Math.genruntimeconfig.cache
+C:/Users/carol/Documents/ChanaMiniCh_2/obj/Debug/net6.0/ref/Day 2 Math.dll
+/Users/samlaguna/Documents/Level1/GitRepository/HanaC_Add2Numbers2/bin/Debug/net6.0/Day 2 Math
+/Users/samlaguna/Documents/Level1/GitRepository/HanaC_Add2Numbers2/bin/Debug/net6.0/Day 2 Math.deps.json
+/Users/samlaguna/Documents/Level1/GitRepository/HanaC_Add2Numbers2/bin/Debug/net6.0/Day 2 Math.runtimeconfig.json
+/Users/samlaguna/Documents/Level1/GitRepository/HanaC_Add2Numbers2/bin/Debug/net6.0/Day 2 Math.dll
+/Users/samlaguna/Documents/Level1/GitRepository/HanaC_Add2Numbers2/bin/Debug/net6.0/Day 2 Math.pdb
+/Users/samlaguna/Documents/Level1/GitRepository/HanaC_Add2Numbers2/obj/Debug/net6.0/Day 2 Math.csproj.AssemblyReference.cache
+/Users/samlaguna/Documents/Level1/GitRepository/HanaC_Add2Numbers2/obj/Debug/net6.0/Day 2 Math.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samlaguna/Documents/Level1/GitRepository/HanaC_Add2Numbers2/obj/Debug/net6.0/Day 2 Math.AssemblyInfoInputs.cache
+/Users/samlaguna/Documents/Level1/GitRepository/HanaC_Add2Numbers2/obj/Debug/net6.0/Day 2 Math.AssemblyInfo.cs
+/Users/samlaguna/Documents/Level1/GitRepository/HanaC_Add2Numbers2/obj/Debug/net6.0/Day 2 Math.csproj.CoreCompileInputs.cache
+/Users/samlaguna/Documents/Level1/GitRepository/HanaC_Add2Numbers2/obj/Debug/net6.0/Day 2 Math.dll
+/Users/samlaguna/Documents/Level1/GitRepository/HanaC_Add2Numbers2/obj/Debug/net6.0/refint/Day 2 Math.dll
+/Users/samlaguna/Documents/Level1/GitRepository/HanaC_Add2Numbers2/obj/Debug/net6.0/Day 2 Math.pdb
+/Users/samlaguna/Documents/Level1/GitRepository/HanaC_Add2Numbers2/obj/Debug/net6.0/Day 2 Math.genruntimeconfig.cache
+/Users/samlaguna/Documents/Level1/GitRepository/HanaC_Add2Numbers2/obj/Debug/net6.0/ref/Day 2 Math.dll
